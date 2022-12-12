@@ -1,0 +1,15 @@
+C:\projetos\projeto final\server\server.Infra.Data\bin\Debug\net6.0\server.Infra.Data.deps.json
+C:\projetos\projeto final\server\server.Infra.Data\bin\Debug\net6.0\server.Infra.Data.dll
+C:\projetos\projeto final\server\server.Infra.Data\bin\Debug\net6.0\server.Infra.Data.pdb
+C:\projetos\projeto final\server\server.Infra.Data\bin\Debug\net6.0\server.Domain.dll
+C:\projetos\projeto final\server\server.Infra.Data\bin\Debug\net6.0\server.Domain.pdb
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.csproj.AssemblyReference.cache
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.AssemblyInfoInputs.cache
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.AssemblyInfo.cs
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.csproj.CoreCompileInputs.cache
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.csproj.CopyComplete
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.dll
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\refint\server.Infra.Data.dll
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\server.Infra.Data.pdb
+C:\projetos\projeto final\server\server.Infra.Data\obj\Debug\net6.0\ref\server.Infra.Data.dll

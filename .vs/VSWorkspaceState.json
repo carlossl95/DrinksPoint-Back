@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\server.Domain",
+    "\\server.Domain\\Repositories",
+    "\\server.Infra.Data",
+    "\\server.Infra.Data\\DAO",
+    "\\server.Infra.Data\\Repositories",
+    "\\server.WebAPI",
+    "\\server.WebAPI\\Controllers"
+  ],
+  "SelectedNode": "\\server.Infra.Data\\DAO\\PedidoDao.cs",
+  "PreviewInSolutionExplorer": false
+}
